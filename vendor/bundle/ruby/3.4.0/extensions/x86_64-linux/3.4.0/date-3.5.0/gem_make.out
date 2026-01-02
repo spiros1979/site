@@ -1,0 +1,24 @@
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+/home/spiros/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with -Werror... yes
+checking for altzone in time.h with -Werror... no
+creating Makefile
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-b1129j sitelibdir\=./.gem.20251116-23913-b1129j clean
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-b1129j sitelibdir\=./.gem.20251116-23913-b1129j
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-b1129j sitelibdir\=./.gem.20251116-23913-b1129j install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20251116-23913-b1129j
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/date-3.5.0/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-b1129j sitelibdir\=./.gem.20251116-23913-b1129j clean

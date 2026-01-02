@@ -1,0 +1,19 @@
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+/home/spiros/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+checking for rb_io_mode_t in ruby/io.h... no
+creating Makefile
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-ul83ye sitelibdir\=./.gem.20251116-23913-ul83ye clean
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-ul83ye sitelibdir\=./.gem.20251116-23913-ul83ye
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-ul83ye sitelibdir\=./.gem.20251116-23913-ul83ye install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20251116-23913-ul83ye
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/stringio-3.1.8/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-ul83ye sitelibdir\=./.gem.20251116-23913-ul83ye clean

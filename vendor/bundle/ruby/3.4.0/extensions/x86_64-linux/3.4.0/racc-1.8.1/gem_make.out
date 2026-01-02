@@ -1,0 +1,18 @@
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/home/spiros/.rbenv/versions/3.4.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-o1to26 sitelibdir\=./.gem.20251116-23913-o1to26 clean
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-o1to26 sitelibdir\=./.gem.20251116-23913-o1to26
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-o1to26 sitelibdir\=./.gem.20251116-23913-o1to26 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251116-23913-o1to26/racc
+
+current directory: /home/spiros/Git_projects/pibookspiros/site/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251116-23913-o1to26 sitelibdir\=./.gem.20251116-23913-o1to26 clean
